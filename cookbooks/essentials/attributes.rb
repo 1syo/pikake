@@ -1,33 +1,35 @@
 attributes = {
   packages: %w(
-    wget
     build-essential
     curl
-    git
-    language-pack-ja
-    libxslt1-dev
-    libxml2-dev
-    imagemagick
-    libmagickwand-dev
-    zlib1g-dev
-    libfreetype6-dev
-    liblcms1-dev
-    libjpeg8-dev
-    libevent-dev
-    libev-dev
-    libyaml-dev
-    libffi-dev
-    libtidy-dev
-    libcurl4-openssl-dev
-    libssl-dev
-    libmemcached-dev
-    wkhtmltopdf
-    libv8-dev
-    libjpeg-dev
-    libpng12-dev
-    python-pip
-    gawk
     fonts-ipafont-gothic
+    gawk
+    git
+    imagemagick
+    language-pack-ja
+    libcurl4-openssl-dev
+    libev-dev
+    libevent-dev
+    libffi-dev
+    libfreetype6-dev
+    libjpeg-dev
+    libjpeg8-dev
+    liblcms1-dev
+    libmagickwand-dev
+    libmemcached-dev
+    libpng12-dev
+    libsqlite3-dev
+    libssl-dev
+    libtidy-dev
+    libv8-dev
+    libxml2-dev
+    libxslt1-dev
+    libyaml-dev
+    python-pip
+    sqlite3
+    wget
+    wkhtmltopdf
+    zlib1g-dev
   )
 }
 
