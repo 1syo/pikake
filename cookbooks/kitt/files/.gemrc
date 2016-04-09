@@ -1,0 +1,7 @@
+gem: "--no-document --user-install"
+verbose: true
+sources:
+  - https://rubyforge.org/
+benchmark: false
+backtrace: false
+update_sources: true
