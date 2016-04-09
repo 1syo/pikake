@@ -38,6 +38,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   itamae (>= 1.5)
   itamae-plugin-recipe-ruby_ng!
   itamae-plugin-resource-authorized_keys
