@@ -15,8 +15,8 @@ end
   .select-editor
 ).each do |rcfile|
   remote_file "/home/kitt/#{rcfile}" do
-    owner user
-    group user
+    owner 'kitt'
+    group 'kitt'
     source "files/#{rcfile}"
   end
 end
